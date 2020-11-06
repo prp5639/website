@@ -56,7 +56,7 @@ make serve
 
 Este comando levantará un servidor de Hugo en el puerto **1313** al que podrá acceder visitando http://localhost:1313 y dónde podrá visualizar su copia local del sitio web. A medida que vaya haciendo cambios en el código fuente, Hugo irá actualizando la página y forzará la actualización en el navegador.
 
-## Comunidad, discusión, contribuir y soporte
+# Comunidad, discusión, contribuir y soporte
 
 Aprenda como participar en la comunidad de Kubernetes visitando la [página de comunidad](http://kubernetes.io/community/).
 
